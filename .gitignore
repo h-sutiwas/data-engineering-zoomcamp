@@ -174,5 +174,5 @@ cython_debug/
 .pypirc
 
 # PostgreSQL
-./01_docker_terraform/nyc_taxi_data
+**/01_docker_terraform/nyc_taxi_data
 *.sql
